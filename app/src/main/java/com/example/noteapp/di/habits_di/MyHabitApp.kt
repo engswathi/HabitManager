@@ -5,5 +5,5 @@ import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
 class MyHabitApp : Application() {
-
+    // You can add additional setup code here if necessary
 }
